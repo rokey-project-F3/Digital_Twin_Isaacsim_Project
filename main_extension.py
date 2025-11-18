@@ -1,4 +1,5 @@
 import os
+import omni
 from isaacsim.examples.browser import get_instance as get_browser_instance
 from isaacsim.examples.interactive.base_sample import BaseSampleUITemplate
 from .main import Main
