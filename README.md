@@ -193,7 +193,7 @@ subscription = omni.kit.app.get_app().get_update_event_stream().create_subscript
 
 ## 🙉 시연 영상
 
-![시연 영상](https://blog.kakaocdn.net/dna/cxzYb2/dJMcagKGf76/AAAAAAAAAAAAAAAAAAAAADvhfxBE9Qb5KQtPHAeulpPgV8Y0roBC2kpuq9icklOw/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Kb2TjjMXJxNNieoCCUWffJbwYmY%3D)
+![시연 영상](./demonstration_video.gif)
 
 
 <br>
